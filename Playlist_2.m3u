@@ -1,0 +1,837 @@
+#EXTM3U
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat 100 News (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat 11 канал (Пенза)
+http://85.234.33.64/stream/c11.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat 12 канал (Омск)
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat 1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat 1-й городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat 24 Украина
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat 2х2 (+2)
+http://persik.by/stream/2347/472449/10211.m3u8
+#EXTINF:-1,hack-sat group-title="Казахстан",hack-sat 31 канал
+https://sc.id-tv.kz/31Kanal.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat 34 канал
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat 34 канал (Днепр)
+https://streamvideol.luxnet.ua/34ua/34ua.stream/chunklist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat 360 (Сургут)
+http://video1.in-news.ru/360/index.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat 360 Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat 360*
+http://video1.in-news.ru/360/index.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat 360°
+http://video1.in-news.ru/360/index.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat 360° Подмосковье HD
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat 365 дней ТВ
+http://persik.by/stream/2347/472449/10288.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat 43 канал (Туапсе)
+http://sochi-strk.ru:2015/43Kanal/mpegts
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat 7 TV
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat 7 канал (Одесса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr-lq/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat 8 канал
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1,hack-sat group-title="КРЫМ",hack-sat 8 канал (Севастополь)
+http://176.99.110.252/stream8/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat ACB TV (Черкесск)
+http://serv25.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Akudji HD
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Amedia 1
+https://sc.id-tv.kz/A1_38_39.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Amedia Hit
+http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Animal Planet
+http://51.195.44.53:8081/tv/animal-planet/chunks.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Animal Planet
+http://51.195.44.53:8081/tv/animal-planet/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Animal Planet HD
+https://s4.idata.uz/animal/tracks-v1a1/mono.m3u8
+#EXTINF:-1,hack-sat group-title="Казахстан",hack-sat Astana TV
+https://sc.id-tv.kz/Astana.m3u8
+#EXTINF:-1,hack-sat group-title="Казахстан",hack-sat Atameken Business TV
+https://sc.id-tv.kz/Atameken.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat AXN Sci-Fi Россия
+http://persik.by/stream/2347/472449/10449.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Bambarbia TV HD
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Молдова",hack-sat Canal Regional
+http://canalregional.md/tv/live/canalregional.m3u8
+#EXTINF:-1,hack-sat group-title="Детские",hack-sat Cartoon Network
+http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat CGTN Русский
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1,hack-sat group-title="Новости",hack-sat CGTN-Русский
+https://russian-live.cgtn.com/data/d1/hls/17592_4.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Da Vinci
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Discovery
+http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Discovery
+http://147.135.210.90:8081/tv/Discovery/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Discovery Science
+http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Discovery Science
+http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Детские",hack-sat Disney
+http://51.68.141.106:8081/tv/disney/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Детские",hack-sat Disney Channel
+http://51.68.141.106:8081/tv/disney/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Молдова",hack-sat Drochia
+https://hls.drochia.tv/tv/web.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat Europa Plus TV
+http://teledifusion.tv:1935/cordoba/cordobalive/chunklist_w1004763452.m3u8
+#EXTINF:-1,hack-sat group-title="Спортивные",hack-sat Eurosport 2
+http://193.151.107.120:8000/play/122/index.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Fox life
+http://51.68.141.106:8081/tv/fox-life/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Fox Life
+http://51.68.141.106:8081/tv/fox-life/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Fox Life Россия
+http://persik.by/stream/2347/472449/10455.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat FOX Россия
+http://persik.by/stream/2347/472449/10234.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat GTV (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr-lq/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat HD Media
+http://45.88.104.104/play/192/index.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat HDFashion&Lifestyle
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat HIT Music
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat Hit TV
+http://rosshow.gcdn.co/streams/1410_287/720n/index.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat Hit TV
+http://sc.id-tv.kz:80/HitTV_38_39.m3u8
+#EXTINF:-1,hack-sat group-title="Казахстан",hack-sat ID Fashion
+https://sc.id-tv.kz/IDFashion.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Kino 24
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat KINO 24 (SD)
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Kinopremera_HD
+http://185.74.7.220:8080/kinopremyera/mpegts
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Kinoteatr
+http://s1.idata.uz/stch_temp12/tracks-v1a1/mono.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1,hack-sat group-title="Музыкальные",hack-sat MCM Top
+http://194.190.78.91:8080/mcm/index.m3u8?password=881251085388
+#EXTINF:-1,hack-sat group-title="Музыкальные",hack-sat Mezzo Live HD
+http://45.88.104.104/play/165/index.m3u8
+#EXTINF:-1,hack-sat group-title="Музыкальные",hack-sat Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательное",hack-sat Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Nat geo wild
+http://185.74.5.142/dars3/video.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Nat Geo Wild
+http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Nat Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat National Geographic
+http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat nst
+http://51.195.44.53:8081/tv/nst/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1,hack-sat group-title="Музыкальные",hack-sat OneRUS HD
+http://rtmp.one.by:2300
+#EXTINF:-1,hack-sat group-title="Мужские",hack-sat Outdoor channel
+http://persik.by/stream/2347/472449/10246.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Paramount Comedy Россия
+http://persik.by/stream/2347/472449/10235.m3u8
+#EXTINF:-1,hack-sat group-title="Музыкальные",hack-sat Portal FoxMix TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1,hack-sat group-title="Молдова",hack-sat Publika TV HD (Moldova)
+http://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Pеноме
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1,hack-sat group-title="Музыкальные",hack-sat RadioM2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat RT Doc
+https://hls.rt.com/hls/rtdru360.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat RT Doc HD
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat RT Док
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat RU TV
+http://rosshow.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat RU TV HD
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat RU.TV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Silence TV WORLD HD
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Simon TV
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat Simon TV (Харьков)
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat TGTV (Одесса)
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat TV 1000 Ru Kino
+http://185.74.7.220:8080/tv1000ru/mpegts
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat TV 1000 Русское кино
+http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8
+#EXTINF:-1,hack-sat group-title="Новости",hack-sat TV BRICS
+https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat TV XX1 ВЕК (SD)
+http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat TV1000
+http://51.68.140.190:8081/tv/tv1000/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat TV1000 Action East
+http://persik.by/stream/2347/472449/10238.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat TV1000 East
+http://persik.by/stream/2347/472449/10237.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat TV1000 Русское кино
+http://persik.by/stream/2347/472449/10236.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat TVM
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,hack-sat group-title="Спорт",hack-sat UFC HD
+http://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Viasat Explorer
+http://persik.by/stream/2347/472449/10280.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Viasat History
+https://s1.idata.uz/stch_temp20/tracks-v1a1/mono.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Viasat Nature CEE
+http://persik.by/stream/2347/472449/10279.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat WORLD HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat XXX 1
+http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat XXX 2
+http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat Z (Запорожье)
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat ZTV
+http://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat А1
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat Аверс (Луцьк)
+https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Аист ТВ
+http://141.101.205.134:8080/hls/tvaist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Арис 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Астрахань 24
+http://astrakhan24.mediacdn.ru/cdn/astrakhan24/playlist_hdlow.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Афонтово (Красноярск)
+http://xstream.afontovo.ru/afontovo_ya.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat Балта ТВ
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Башкортостан 24
+http://live.gtrk.tv/hls/b24-hls.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Башкортостан 24
+http://live.gtrk.tv/720/b24-720.m3u8
+#EXTINF:-1,hack-sat group-title="Беларусь",hack-sat Беларусь 4
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Белрос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1,hack-sat group-title="Беларусь",hack-sat БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Беларусь",hack-sat БелСат
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Б-Кінозал
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1,hack-sat group-title="Спорт",hack-sat Бокс ТВ
+http://51.68.141.106:8081/iptv/box-tv/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Мужские",hack-sat Бокс ТВ
+http://51.68.141.106:8081/iptv/box-tv/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Большой эфир (Триколор)
+http://stream-msk-05.ott.tricolor.tv/dtv/id621_MSKSG-PVR-1--ChannelLIVE/02/plst.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat БСТ (Уфа)
+http://bstvint.mediacdn.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Вектор 24
+https://live.vektor-tv.ru/live/stream.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Ветта 24  (Пермь)
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Новости",hack-sat Вечерняя Москва
+http://vmvideo.gcdn.co/streams/1503_161/480n/index.m3u8
+#EXTINF:-1,hack-sat group-title="Новости",hack-sat Вечерняя Москва HD
+http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
+#EXTINF:-1,hack-sat group-title="Беларусь",hack-sat Витебск ТВ
+https://flu.vtv.by/tvt-non-by/index.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Время
+http://178.163.47.208:4022/udp/234.0.0.225:2000
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat ВТВ-Плюс
+http://iptv.rubintele.com:8552/play/a007
+#EXTINF:-1,hack-sat group-title="Грузия",hack-sat ГАЛ TV HD
+http://clients.apsny.camera:80/tv_gal_tv_hd_online/index.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat ГРОМАДСЬКЕ ІНТЕРАКТИВНЕ ТЕЛЕБАЧЕННЯ (Луцьк)
+https://stream.uagit.tv/gittv.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Губерния
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Губерния (Самара)
+http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
+#EXTINF:-1,hack-sat group-title="Мужские",hack-sat ДИАЛОГИ О РЫБАЛКЕ
+http://strm.yandex.ru/kal/dialogi/dialogi0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Дом кино
+http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Дом кино
+http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8?bw882739331396.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Дом Кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Домашний
+http://51.195.44.53:8081/tv/domashniy/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Домашний
+http://51.195.44.53:8081/tv/domashniy/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы и сериалы",hack-sat Дорама
+http://sc.id-tv.kz/dorama_hd_38_39.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Дорама HD
+http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Думская TV HD
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat Думская TV HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Евразия (Орск)
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Еврокино
+http://51.68.141.106:8081/tv/evrokino/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Еврокино
+http://51.68.141.106:8081/tv/evrokino/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Казахстан",hack-sat Ел Арна
+https://sc.id-tv.kz/ElArna.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Запад 24
+http://vod.beeiptv.com:8081/Zapad24/zapad24/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Звезда
+http://cdn.nexttvnet.ru/hlsl/10/Zvezda/Zvezda_3/index.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Звезда FHD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat Здоровье (Одесса)
+https://cdn1.live-tv.od.ua:8083/zdorovood/zdorovo-abr-lq/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Игра (Триколор)
+http://stream-msk-03.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/02/plst.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Новости",hack-sat Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Известия ТВ
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Измаил ТВ
+http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Иллюзион +
+http://persik.by/stream/2347/472449/327.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Индийское кино
+http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat ИРТ (Днепр)
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Кавказ 24
+http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Каменск ТВ
+http://185.18.4.16/live/3m/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Детские",hack-sat Карусель
+http://cdn.nexttvnet.ru/hlsl/10/Karusel/Karusel_3/index.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Катунь 24 (Барнаул)
+https://live.katun24.ru:8082/katun/katun/index.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Кино 1
+http://v2.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat КИНО 1 INTERNATIONAL
+https://v2.catcast.tv/content/38617/tracks-v1a1/index.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы и сериалы",hack-sat КИНО 24
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Кино ТВ
+http://51.195.44.53:8081/tv/kino-tv/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Кино ТВ
+http://45.145.32.15:20001/kino_tv/video.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Кино ТВ
+http://51.195.44.53:8081/tv/kino-tv/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Кинокомедия
+http://persik.by/stream/2347/472449/292.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Кинокомедия HD
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Киномикс
+http://persik.by/stream/2347/472449/10332.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Киномикс HD
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Кинопремьера
+http://persik.by/stream/2347/472449/34.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Кинопремьера HD
+http://persik.by/stream/2347/472449/10240.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Кинопремьера HD (Резерв)
+http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Киносвидание
+http://persik.by/stream/2347/472449/10331.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Киносвидание
+http://185.74.7.220:8080/kinosvidanie/mpegts
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Киносвидание HD
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Киносемья
+http://persik.by/stream/2347/472449/590.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Киносемья HD
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Киносерия
+http://persik.by/stream/2347/472449/278.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Кинохит
+http://persik.by/stream/2347/472449/213.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Кинохит HD
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Конный мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/index.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Красная линия
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Красная линия
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1,hack-sat group-title="Ретро",hack-sat Красная линия (СССР)
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Краснодар ТВ
+http://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist_sdhigh.m3u8
+#EXTINF:-1,hack-sat group-title="Новостные",hack-sat Крик ТВ
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat Круг (Одесса)
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat КРЫМ 1
+http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat КРЫМ 24
+http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+#EXTINF:-1,hack-sat group-title="Казахстан",hack-sat КТК
+https://sc.id-tv.kz/KTK.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Кубань 24
+https://stream.kuban24.tv:1500/hls/stream.m3u8
+#EXTINF:-1,hack-sat group-title="Новости",hack-sat ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Лент ТВ 24
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Липецкое Время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Любимое кино
+http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Любимое кино
+http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat Мiсто+ (Полтава)
+http://93.78.206.172:8080/stream5/stream.m3u8
+#EXTINF:-1,hack-sat group-title="Спорт",hack-sat Матч арена
+http://51.68.141.106:8081/tv/match-arena/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Спорт",hack-sat Матч планета
+http://51.68.141.106:8081/tv/match-planeta/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Спорт",hack-sat Матч ТВ
+http://cdn.nexttvnet.ru/hlsl/10/Match_TV/Match_TV_3/index.m3u8
+#EXTINF:-1,hack-sat group-title="Спорт",hack-sat Матч! Футбол 1
+https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Министерство идей
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b800000.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Министерство идей
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/chunklist.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Мир
+http://cdn.nexttvnet.ru/hlsl/10/Mir/Mir_3/index.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Мир (+3)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Мир (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Мир (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Мир белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Мир Премиум
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Мир Премиум
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat МИР ТВ
+http://persik.by/stream/2347/472449/10404.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Мисто плюс
+http://93.78.206.172:8080/stream4/stream.m3u8
+#EXTINF:-1,hack-sat group-title="Молдова",hack-sat Молдова 1
+http://www.trm.md/live/MoldovaUnu1/chunklist_w1943375279.m3u8
+#EXTINF:-1,hack-sat group-title="Молдова",hack-sat Молдова 2
+http://www.trm.md/live/MoldovaDoi2/chunklist_w100565256.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Мордовия 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b800000.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Москва 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b800000.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Московский образовательный
+http://1hdru-hls-otcnet.cdnvideo.ru/mosobrtv/tracks-v1a1/index.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Моя планета
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Моя Удмуртия
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Мужское кино
+http://persik.by/stream/2347/472449/10025.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat МУЖСКОЕ КИНО HD
+http://spacetv.in/stream/IFBYIR5OA7/107.m3u8
+#EXTINF:-1,hack-sat group-title="Мужские",hack-sat Мужской
+http://89.106.234.3/Mujskoi_34_35.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat Муз ТВ
+http://cdn.nexttvnet.ru/hlsl/10/Muz_TV/Muz_TV_3/index.m3u8
+#EXTINF:-1,hack-sat group-title="Музыкальные",hack-sat Музыка Кино
+http://v2.catcast.me/content/37739/index.m3u8
+#EXTINF:-1,hack-sat group-title="Детские",hack-sat Мультиландия
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Детские",hack-sat Мультимания
+http://85.192.44.14/hls/MultimaniaRu/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Детские",hack-sat Мультимания
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Детские каналы",hack-sat МультСказки
+https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:-1,hack-sat group-title="Новости",hack-sat Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0480_av-b.m3u8
+#EXTINF:-1,hack-sat group-title="Новости",hack-sat Настоящее Время HD
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-b.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Наше любимое кино
+http://51.195.44.53:8081/tv/lubimoe-kino/chunks.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Наше новое кино
+https://s1.idata.uz/stch_temp6/tracks-v1a1/mono.m3u8
+#EXTINF:-1,hack-sat group-title="Беларусь",hack-sat НАШЕ ТВ (Витебск)
+http://95.46.208.8:26259/nashe
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Ника ТВ
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Казахстан",hack-sat Новое телевидение
+https://sc.id-tv.kz/New_Television_38_39.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Ностальгия
+http://178.163.64.9:4022/udp/234.0.0.190:2000
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat НТА
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat НТА (Львів)
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat НТВ
+http://cdn.nexttvnet.ru/hlsl/10/NTV/NTV_3/index.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat НТВ HD
+http://spacetv.in/stream/DIPK8H19CP8/134.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat НТВ ХИТ
+http://178.163.60.244:4022/udp/234.0.0.236:2000
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat НТК (Коломия)
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat ОНТ (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Орбита
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat ОТВ (Днепр)
+http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat ОТР
+http://cdn.nexttvnet.ru/hlsl/10/OTR/OTR_3/index.m3u8
+#EXTINF:-1,hack-sat group-title="Мужские",hack-sat Охота и рыбалка
+http://185.74.5.142/dars5/video.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat Первый Городской (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Первый Городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские",hack-sat Первый деловой
+https://pershij-dlovij.cdn-02.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Первый канал
+http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat Первый Музыкальный HD
+http://rtmp.one.by:2200
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Первый Псковский
+http://194.190.78.91/pskov/index.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Первый российский национальный канал HD
+http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Первый тульский
+http://5.164.24.83/tula/1tv_hi/index.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Первый Ярославский
+http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdlow.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Перец int.
+http://spacetv.in/stream/DIPK8H19CP8/121.m3u8
+#EXTINF:-1,hack-sat group-title="Развлекательные",hack-sat Перец International
+http://persik.by/stream/2347/472449/10273.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat Перший Західний (Львів)
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/chunklist_w406301318.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Победа
+http://45.145.32.15:20000/pobeda/video.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Победа
+https://sc.id-tv.kz/Pobeda_36_37.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Под водой HD
+http://194.190.78.91:8080/podvodoi/index.m3u8?password=881251085388
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Поединок (Триколор)
+http://stream-msk-06.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/02/plst.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Поехали!
+http://89.106.234.3:80/poehali_34_35.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Правда ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские",hack-sat ПравдаТУТ Київ
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательное",hack-sat Приключения
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist_b1600000.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat ПРНК
+http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Просвещение
+https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Прямий
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,hack-sat group-title="Развлекательные",hack-sat Пятница
+http://cdn.nexttvnet.ru/hlsl/10/Pyatnitsa/Pyatnitsa_3/index.m3u8
+#EXTINF:-1,hack-sat group-title="Музыкальные",hack-sat РАДИО ШАНСОН
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1,hack-sat group-title="Детские каналы",hack-sat Радость моя
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Раменское ТВ
+https://rtv.facecast.io/rtv/1.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat РБК ТВ (Уфа)
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat РЕН ТВ
+http://cdn.nexttvnet.ru/hlsl/10/REN_TV/REN_TV_3/index.m3u8
+#EXTINF:-1,hack-sat group-title="Развлекательные",hack-sat Рен ТВ International
+http://89.106.234.3:80/RenTV_34_35.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Ретро (Резерв2)
+http://185.74.7.220:8080/retro/tracks-v1a1/index.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat РЖД ТВ
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat РИО (Одесса)
+http://cdn1.live-tv.od.ua:8081/riood/riood-abr-lq/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Родное кино
+http://185.74.5.142/dars10/video.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_2.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Россия 1 (+1)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus1/playlist_3.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Россия 1 (+1)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus1/playlist_3.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Россия 1 (+2)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus2/playlist_3.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Россия 1 (+2)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus2/playlist_3.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Россия 1 (+3)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus3/playlist_3.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Россия 1 (+3)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus3/playlist_3.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Россия 1 (+4)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Россия 1 (+4)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Россия 1 (+5)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus5/playlist_3.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Россия 1 (+6)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus6/playlist_3.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Россия 1 (+7)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus7/playlist_3.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Россия 1 (+8)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus8/playlist_3.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Россия 1 (+9)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus9/playlist_3.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1,hack-sat group-title="Новостные",hack-sat Россия 24
+http://persik.by/stream/2347/472449/328.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Россия 24 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Россия HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b800000.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Россия К
+https://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/index.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Россия РТР
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,hack-sat group-title="Беларусь",hack-sat РТР Беларусь
+http://45.88.104.104/play/3789/tracks-v1a1/mono.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat РТР Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat РТР Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Русская комедия
+http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Русский Бестселлер
+http://51.68.141.106:8081/tv/rus-bestceller/chunks.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Русский Иллюзион
+http://51.68.141.106:8081/tv/rus-illus/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat Русский Роман
+http://147.135.210.90:8081/tv/rus-roman-6r/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat РУССКИЙ ЭКСТРИМ (SD)
+http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
+#EXTINF:-1,hack-sat group-title="Мужские",hack-sat Русский экстрим (Ретро)
+http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
+#EXTINF:-1,hack-sat group-title="Мужские",hack-sat Русский экстрим HD
+http://spacetv.in/stream/DIPK8H19CP8/285.m3u8
+#EXTINF:-1,hack-sat group-title="Детские",hack-sat Рыжий
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Детские",hack-sat Рыжий
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Салям ТВ (Уфа)
+http://bstvint.mediacdn.ru/cdn/salyam/playlist_sdhigh.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Саратов 24
+http://saratov24.tv:80/online/playlist.php
+#EXTINF:-1,hack-sat group-title="Развлекательные",hack-sat Сарафан
+http://178.163.43.152:4022/udp/234.0.0.246:2000
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Сарафан_ТВ
+http://178.163.64.9:4022/udp/234.0.0.246:2000
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Сварожичи ТВ
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Свое ТВ (Ставрополь)
+http://live.stv24.tv:8080/svoetv/LQ_video.m3u8
+#EXTINF:-1,hack-sat group-title="Казахстан",hack-sat Седьмой канал
+https://sc.id-tv.kz/7_kanal_38_39.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы и сериалы",hack-sat Сиеста HD
+http://194.190.78.91:8080/siesta/index.m3u8?881251085388
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Сила (Триколор)
+http://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/02/plst.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat СК1
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Детские",hack-sat Смайлик ТВ
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Детские каналы",hack-sat Смайлик ТВ HD
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Сочи 24
+http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8?version=2
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Старт (Триколор)
+http://stream-msk-02.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/02/plst.m3u8
+#EXTINF:-1,hack-sat group-title="Казахстан",hack-sat СТВ
+https://sc.id-tv.kz/STV.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat СТВ
+http://86.57.147.236/HLS/ctvby/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat СТРК
+http://sochi-strk.ru:2015/STRK/mpegts
+#EXTINF:-1,hack-sat group-title="Развлекательные",hack-sat СТС
+http://cdn.nexttvnet.ru/hlsl/10/STS/STS_3/index.m3u8
+#EXTINF:-1,hack-sat group-title="Развлекательные",hack-sat СУПЕР
+http://37.235.195.80:81/udp/225.50.66.6:1234
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Сургут 1
+http://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Сургут 24
+http://video1.in-news.ru/c24/index.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Сургут 86
+http://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat Сфера ТВ HD (Ровно)
+https://hls.goodgame.ru/hls/178689.m3u8
+#EXTINF:-1,hack-sat group-title="КРЫМ",hack-sat ТPK 555 (Алушта)
+http://trk555.tv:8888/live
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Татарстан 24
+http://89.232.125.186/online_tv_Tatarstan24/index.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat ТВ 3 (Беларусь)
+http://persik.by/stream/2347/472449/847.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat ТВ XXI
+http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat ТВ Центр
+http://persik.by/stream/2347/472449/237.m3u8
+#EXTINF:-1,hack-sat group-title="Центральные",hack-sat ТВ3
+http://cdn.nexttvnet.ru/hlsl/10/TV-3/TV-3_3/index.m3u8
+#EXTINF:-1,hack-sat group-title="Фильмы",hack-sat ТВ-3
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat ТВ-3
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat ТВ3 Россия
+http://persik.by/stream/2347/472449/106.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat ТВ-5 (Запорожье)
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat ТВiй плюс (Херсон)
+http://iptv.rubintele.com:8552/play/a003
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat ТВА Чернівці
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Тверской проспект-регион
+http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat ТВ-ИН (Магнитогорск)
+http://5.200.56.186/live/index.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat ТВК 24 (Красноярск)
+http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Тернополь 1
+http://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat ТИС-ТВ (Одесса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat ТК Одесса
+http://cdn1.live-tv.od.ua:8081/riood/riood/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Развлекательные",hack-sat ТНТ
+http://cdn.nexttvnet.ru/hlsl/10/TNT/TNT_3/index.m3u8
+#EXTINF:-1,hack-sat group-title="Развлекательные",hack-sat ТНТ HD
+http://37.193.162.6:4022/udp/239.1.21.55:1234
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat ТНТ International (Беларусь)
+http://persik.by/stream/2347/472449/1052.m3u8
+#EXTINF:-1,hack-sat group-title="Молдова",hack-sat ТНТ Moldova
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1,hack-sat group-title="Развлекательные",hack-sat ТНТ4
+http://persik.by/stream/2347/472449/64.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Третий цифровой
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat Третий Цифровой (Одесса)
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat ТРК Алекс (Запорожье)
+http://46.46.112.223/live/livestream1.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat ТРК Круг
+http://cdn1.live-tv.od.ua:8081/krugod/krugod/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat ТРК Надія - Новий Канал (Первомайский)
+http://178.217.215.57/mob/mystream.m3u8
+#EXTINF:-1,hack-sat group-title="Познавательное",hack-sat Трофей
+http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Трофей HD
+http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_w1068339373_b878000_slukr.m3u8
+#EXTINF:-1,hack-sat group-title="Региональные",hack-sat Тюменское время
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Урал Информ
+http://serv30.vintera.tv:8081/ural/ural_inform/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Кино",hack-sat Фантастика Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1,hack-sat group-title="Казахстан",hack-sat Хабар
+https://sc.id-tv.kz/Khabar.m3u8
+#EXTINF:-1,hack-sat group-title="Казахстан",hack-sat Хабар 24
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Казахстан",hack-sat Халык Арна
+https://sc.id-tv.kz/HalykArna.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat Херсон Плюс (Херсон)
+http://iptv.rubintele.com:8552/play/a001
+#EXTINF:-1,hack-sat group-title="Познавательные",hack-sat Царьград
+https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat Центральный ТВ
+http://159.224.182.177:8080/Live/stream_720/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Развлекательные",hack-sat Че
+http://persik.by/stream/2347/472449/385.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat ЧП.INFO
+http://109.68.40.67/life/magnolia_3/index.m3u8
+#EXTINF:-1,hack-sat group-title="Музыкальные",hack-sat Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Музыка",hack-sat Шансон ТВ
+http://live2.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Щёлковское ТВ
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Эфир ТВ (Казань)
+http://89.232.125.186/online_tv_Efir/index.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Эхо TВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Без группы",hack-sat Эхо ТВ (Рязань)
+http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Россия",hack-sat Югра
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украинские Региoнальные",hack-sat Южная Волна HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+#EXTINF:-1,hack-sat group-title="Украина",hack-sat ЯТБ
+http://46.175.163.130/live_yatb/playlist.m3u8
